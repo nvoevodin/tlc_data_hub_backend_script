@@ -16,7 +16,7 @@ TLC Data Hub offers users a convenient location to access and visualize taxi and
 
 Currently, the app includes the following dashboards:
 
-- &#x1F4C8; **Trips Dashboard** <img src="DataHub_screens/all.PNG" align="right" width="35%"  />
+- &#x1F4C8; **Trips Dashboard** <img src="all.PNG" align="right" width="35%"  />
 
     The 'Trip Data' dashboard displays and compares the pickup, dropoff, trip, trip fare, trip time, and trip distance data across different locations, industries and periods.
     
