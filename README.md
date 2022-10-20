@@ -2,7 +2,7 @@
 Python script that ETLs data from the DuckDB repo into the TLC Data Hub RShiny App
 
 <p align="center">
-<img src="welcome.PNG" align="center" width="75%" alt="A screenshot of the welcome page"/>
+<img src="code.PNG" align="center" width="75%" alt="A screenshot of the welcome page"/>
 </p>
 
 ## Check It Out
