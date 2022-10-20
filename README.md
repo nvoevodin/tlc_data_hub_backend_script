@@ -9,6 +9,7 @@ Python script that ETLs data from the DuckDB repo into the TLC Data Hub RShiny A
 
 - Try a demo of the app on [DataHub].
 - Open Data Week presentation here: [Open Data].
+- App code is here: https://github.com/nvoevodin/tlc_data_hub_RShiny_app
 
 ## Overview
 
